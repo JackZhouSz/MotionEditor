@@ -18,7 +18,7 @@ progressbar2==4.2.0
 Pillow
 python-slugify
 addict
-yapfcv2
+yapf
 onnxruntime
 pycocotools
 PyYAML
